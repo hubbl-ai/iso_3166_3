@@ -1,0 +1,115 @@
+# Qırımtatarca ISO-3166 (country names)
+# This file is distributed under the same license as the iso-codes package.
+#
+# Reşat SABIQ <tilde.birlik@gmail.com>, 2009.
+# Türkçeden çabik uyarlama.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-03-01 14:42-0600\n"
+"Last-Translator: Reşat SABIQ <tilde.birlik@gmail.com>\n"
+"Language-Team: Crimean Tatar <tilde-birlik-tercime@lists.sourceforge.net>\n"
+"Language: crh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"X-Launchpad-Export-Date: 2009-03-01 08:56+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Fransız Somalilandı"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Hollanda Antilleri"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "İngiliz Antarktika Bölgesi"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Birligi Sosyalist Cumhuriyeti"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Beyaz Rusiye SSC (Sovet Sosyalist Cumhuriyeti)"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Çekoslovakya, Çekoslovak Sosyalist Cumhuriyeti"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Sırbistan-Qaradağ"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Kanton ve Enderbury Adaları"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Alman Demokratik Cumhuriyeti"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Fransız Cenübiy ve Antarktik Topraqları"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Frenkistan, Anakent"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert ve Ellice Adaları"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Yukarı Volta, Cumhuriyeti"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston Adaları"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway Adaları"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Yeni Hebrid"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Qıraliçe Maud Adası"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Tarafsız Bölge"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pasifik Adaları (vesayet ülkeleri)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Çeşitli BD (Birleşik Devletler) Pasifik Adaları"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panama Kanalı Bölgesi"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Cenübiy Rodezya"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "SSCB, Sovyet Sosyalist Cumhuriyetler Birligi"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Doğu Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, Demokratik Cumhuriyeti"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake Adaları"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen, Demokratik Halq Cumhuriyeti"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Yugoslavya, Sosyalist Federal Cumhuriyeti"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, Cumhuriyeti"

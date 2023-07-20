@@ -1,0 +1,55 @@
+# Translation of ISO-3166 (country names) to Afrikaans
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2004
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Translations from KDE desktop.po:
+#   - Frikkie Thirion <frix@engineer.com>, 2001.
+#   Further data from the ICU project, 3.0 beta, 2004.
+#   Friedel Wolff <friedel BY translate.org.za>, 2007
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-11-17 11:40+0200\n"
+"Last-Translator: Friedel Wolff <friedel@translate.org.za>\n"
+"Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Nederlands-Antille"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serwië en Montenegro"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Duitse Demokratiese Republiek"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Bo-Volta"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston-Eilande"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Marshall-eilande"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Suid-Rhodesië"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, Unie van Sowiët Sosialistiese Republieke"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Oos-Timor"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaïre"

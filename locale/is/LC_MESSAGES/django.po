@@ -1,0 +1,118 @@
+# translation of iso_3166-3.60.is.po to Icelandic
+# Icelandic translations of ISO 3166 place names
+# Íslenskar þýðingar á staðarnöfnum skv. ISO 3166 staðli
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2002-2013 Free Software Foundation, Inc.
+# Translations taken from KDE:
+# Þórarinn Rúnar Einarsson <thori@mindspring.com>
+#
+# Alastair McKinstry, <mckinstry@computer.org>, 2002.
+# Sveinn í Felli <sveinki@nett.is>, 2010, 2011, 2012, 2013, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-08-22 16:01+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Frönsku Afar og Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Hollensku Antillaeyjar"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Breska suðurskautslandssvæðið"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Búrma, sambandsríki sósíalistalýðveldisins"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Hvítarússland SSR sovéska sósíalistalýðveldið"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tékkóslóvakía, tékkneska sósíalistalýðveldið"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbía og Svartfjallaland"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton- og Enderbury-eyjur"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Þýska alþýðulýðveldið"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Frönsku suðurhafs- og suðurskautslandssvæðin"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Frakkland, heimalandið"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert og Ellice-eyjar"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Lýðveldið Efri-Volta"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston-eyja"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway-eyjar"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nýju-Hebrideseyjar"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Land Maud drottningar"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Hlutlaust svæði"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Kyrrahafseyjar (alþjóðlega stjórnsvæðið - trust territory)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Ýmsar bandarískar Kyrrahafseyjar"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamíska skipaskurðssvæðið"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Suður-Ródesía"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, sambandsríki sovéskra sósíalistalýðvelda"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Austur-Tímor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Lýðveldið Víetnam"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wakeeyja"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemen, sambandslýðveldi, alþýðulýðveldi"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Júgóslavía, sósíalíska sambandslýðveldið"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Lýðveldið Saír"

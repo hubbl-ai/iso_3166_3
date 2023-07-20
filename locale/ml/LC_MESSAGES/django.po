@@ -1,0 +1,119 @@
+# Translation of ISO 3166 (country names) to Malayalam
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C) 2006-2008 Praveen A <pravi.a@gmail.com> and contributors listed below,
+# Praveen A <pravi.a@gmail.com>, 2006, 2008.
+#    Translators, if you are not familiar with the PO format, gettext
+#    documentation is worth reading, especially sections dedicated to
+#    this format, e.g. by running:
+#         info -n '(gettext)PO Files'
+#         info -n '(gettext)Header Entry'
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-05-30 05:10+0530\n"
+"Last-Translator: Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ഫ്രഞ്ച് അഫാര്‍സും ഇസ്സാസും"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "നെതര്‍ലന്‍ഡ്സ് ആന്റിലസ്"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ബ്രിട്ടീഷ് അന്റാര്‍ട്ടിക് പ്രദേശം"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "ബര്‍മ സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "ബെലോറൂസ്യന്‍ എസ്എസ്ആര്‍ സോവിയറ്റ് സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "ചെക്കോസ്ലോവാക്ക്യ, ചെക്കോസ്ലോവാക്ക് സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "സെര്‍ബിയയും മോണ്ടിനെഗ്രോയും"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "കാന്റണും എന്റര്‍ബറിയും ദ്വീപുകള്‍"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ജര്‍മന്‍ ജനാധിപത്യ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "ഡഹോമി"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ഫ്രഞ്ച് തെക്കനും അന്റാര്‍ട്ടിക്കും പ്രദേശങ്ങള്‍"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ഫ്രാന്‍സ്, മെട്രോപൊളിറ്റന്‍"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "ഗില്‍ബര്‍ട്ടും എല്ലീസും ദ്വീപുകള്‍"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "അപ്പര്‍ വോള്‍ട്ട റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ജോണ്‍സ്റ്റണ്‍ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "മിഡ്‌വേ ദ്വീപുകള്‍"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "ന്യൂ ഹെബ്രൈഡ്സ്"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ഡ്രോണിങ്ങ് മോഡ് ലാന്‍ഡ്"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "ന്യൂട്രല്‍ സോണ്‍"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "പസഫിക് ദ്വീപുകള്‍ (ട്രസ്റ്റ് പ്രദേശം)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "യുഎസ് മിസലേനിയസ് പസഫിക് ദ്വീപുകള്‍"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "പനാമ കനാല്‍ സോണ്‍"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "തെക്കന്‍ റൊഡേഷ്യ"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "സിക്കിം"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "യുഎസ്എസ്ആര്‍, സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്കുകളുടെ യൂണിയന്‍"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "കിഴക്കന്‍ തിമൂര്‍"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "വിയറ്റ്നാം ഡെമോക്രാറ്റിക് പീപ്പിള്‍സ് റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "വേക്ക് ദ്വീപു്"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "യെമന്‍, ഡെമോക്രാറ്റിക്, പീപ്പിള്‍സ് ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക് ഓഫ്"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "യുഗോസ്ലാവിയ സോഷ്യലിസ്റ്റ് ഫെഡറല്‍ റിപ്പബ്ലിക്"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "സയര്‍ റിപ്പബ്ലിക്"

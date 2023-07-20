@@ -1,0 +1,120 @@
+# Translation of ISO-3166 (country names) to Danish
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) Free Software Foundation, Inc., 2006.
+# Keld Simonsen <keld@dkuug.dk>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Claus Hindsgaul <claus_h@image.dk>, 2004.
+# Claus Hindsgaul <claus.hindsgaul@gmail.com>, 2006.
+# Joe Hansen <joedalton2@yahoo.dk>, 2010, 2011, 2012, 2013, 2015.
+#
+# This European Union Resource page was very helpful:
+# http://eur-op.eu.int/code/da/da-5000500.htm
+#   - further translations from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-08-16 11:34+0200\n"
+"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Fransk Afars og Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Hollandske Antiller"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Britisk Antarktis"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Den Socialistiske Unionsrepublik Burma"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Den Hviderussiske Sovjetrepublik"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tjekkoslovakiet, Den Tjekkoslovakiske Socialistiske Republik"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbien og Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton- og Enderburyøerne"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Den Tyske Demokratiske Republik"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "De Sydlige og Antarktiske Franske Territorier"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Frankrig, Metroplitanfrankrig"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert- og Elliceøerne"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Republikken Øvre Volta"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnstonøen"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midwayøerne"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Ny Hebriderne"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neutral Zone"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Trust Territory of the Pacific Islands"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Forskellige Amerikanske Stillehavsøer"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamakanalzonen"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Sydrhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, Unionen af Sovjetiske Socialistrepublikker"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Østtimor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, Den Demokratiske Republik"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wakeøerne"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen, Den Demokratiske Folkerepublik"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoslavien, Den Føderale Socialistiske Republik"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, Republikken"

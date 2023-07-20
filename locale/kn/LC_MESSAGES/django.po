@@ -1,0 +1,66 @@
+# Translation of ISO-3166 (country names) to Kannada
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Vikram Vincent <vincentvikram@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-05-03 14:19+0530\n"
+"Last-Translator: Vikram Vincent <vincentvikram@gmail.com>\n"
+"Language-Team: Kannada\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್ Antilles"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ಬ್ರಿಟಿಷ್ ಇಂಡಿಯನ್ ಓಶಿಯನ್ ಪ್ರದೇಶ"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "ಸಮಾಜವಾದಿ ವಿಯೆಟ್ನಾಂ ಗಣರಾಜ್ಯ"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "ಮಾಂಟೆನೆಗ್ರೋ ಗಣರಾಜ್ಯ"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ಫ್ರೆಂಚ್ ಸದರ್ನ್ ಟೆರಿಟರೀಸ್"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Turks and Caicos Islands"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "ಮೋಲ್ಡೋವಾ"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ಕುಕ್ ದ್ವೀಪಗಳು"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "ಕೇಮನ್ ದ್ವೀಪಗಳು"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ಪರೋ ದ್ವೀಪಗಳು"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "ತಾಂಜಾನಿಯಾ ಸಂಯುಕ್ತ ಗಣರಾಜ್ಯ"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ಕೋರಿಯಾ ಗಣರಾಜ್ಯ"

@@ -1,0 +1,114 @@
+# Translation of ISO-3166 (country names) to Georgian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   Aiet Kolkhi <aietkolkhi@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-09-09 23:36+0400\n"
+"Last-Translator: Aiet Kolkhi <aietkolkhi@gmail.com>\n"
+"Language-Team: Georgian\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ფრანგული აფარები და ისსაები"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "ნიდერლანდური ანტილიები"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ბრიტანეთის ანტარქტიკის ტერიტორია"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "ბურმას კავშირის სოციალისტური რესპუბლიკა"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "ბელორუსიის სსრ საბჭოთა სოციალისტური რესპუბლიკა"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "ჩეხოსლავაკია, ჩეხესლავაკიის სოციალისტური რესპუბლიკა"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "სერბეთი და მონტენეგრო"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "კანტონის და ენდერბურის კუნძულები"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "გერმანიის დემოკრატიული რესპუბლიკა"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "დაჰომეა"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "საფრანგეთის სამხრეთის და ანტარქტიკული ტეროტორიები"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "საფრანგეთის მეტროპოლი"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "გილბერტის და ელისის კუნძულები"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "ზემო ვოლტას რესპუბლიკა"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ჯონსტონის კუნძული"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "მიდვეის კუნძულები"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "ნიუ ჰებრიდები"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "დედაფალ მაუდის მიწა"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "ნეიტრალური ზონა"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "წყნარი ოკეანის კუნძულები"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "შეერთებული შტატების სხვადასხვა წყნარი ოკეანის კუნძულები"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "პანამის არხის ზონა"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "სამხრეთ როდეზია"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "სიკიმი"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "სსრკ, საბჭოთა სოციალისტური რესპუბლიკების კავშირი"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "აღმოსავლეთ ტიმორი"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ვიეტ-ნამის დემოკრატიული რესპუბლიკა"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ვეიკის კუნძული"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "იემენი, სახალხო დემოკრატიული რესპუბლიკა"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "იუგოსლავიის სოციალისტური ფედერალური რესპუბლიკა"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ზაირის რესპუბლიკა"

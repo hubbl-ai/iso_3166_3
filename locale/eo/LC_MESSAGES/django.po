@@ -1,0 +1,113 @@
+# Esperanto translations of ISO-3166 element names
+# Copyright (C) 2001,2003,2004 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# D. Dale Gulledge <dsplat@rochester.rr.com> (translations from drakfw), 2001.
+# Alastair McKInstry <mckinstry@computer.org>, 2001.
+# Edmund GRIMLEY EVANS <edmundo@rano.org>, 2004-2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-07-10 13:46+0100\n"
+"Last-Translator: Edmund GRIMLEY EVANS <edmundo@rano.org>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Francaj Afaroj kaj Isaoj"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Nederlandaj Antiloj"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Brita Antarkta Teritorio"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Birmo, Socialisma Respubliko Unio de"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Belorusa Soveta Socialisma Respubliko"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Ĉeĥoslovakio, Ĉeĥoslovaka Socialisma Respubliko"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbio kaj Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Insuloj Canton kaj Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Germana Demokratia Respubliko"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomeo"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Francaj Sudaj kaj Antarktaj Teritorioj"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Francio, Metropola"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Insuloj Gilbert kaj Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Voltalando, Respubliko"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Insulo de Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midvejinsuloj"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nov-Hebridoj"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Lando de Reĝino Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neŭtrala Zono"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pacifikaj Insuloj (kuratora teritorio)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Usonaj Diversaj Pacifikaj Insuloj"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Zono de Panama Kanalo"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Suda Rodezio"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikimo"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "Sovetunio, Unio de Sovetaj Socialismaj Respublikoj"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Orienta Timoro"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vjetnamio, Demokratia Respubliko"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Vejkinsulo"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemeno, Demokratia, Popola Demokratia Respublko"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoslavio, Socialisma Federacia Respubliko"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zairio, Respubliko"

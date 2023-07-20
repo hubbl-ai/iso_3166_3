@@ -1,0 +1,119 @@
+# Translation of ISO-3166 (country names) to French
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+#   Free Software Foundation, Inc., 2006.
+#   Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Christian Perrier <bubulle@debian.org>, 2004, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2015.
+#   Tobias Quathamer <toddy@debian.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-06-10 18:58+0200\n"
+"Last-Translator: Christian Perrier <bubulle@debian.org>\n"
+"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Territoire français des Afars et des Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Antilles néerlandaises"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Territoire britannique de l'Antarctique"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Union de Birmanie"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "République socialiste soviétique de Biélorussie"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tchécoslovaquie, république socialiste tchécoslovaque"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbie et Monténégro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Îles Canton et Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "République démocratique allemande"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Terres australes et antarctiques françaises"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "France métropolitaine"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Îles Gilbert et Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Haute-Volta, République de"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Île Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Îles Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nouvelles-Hébrides"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Terre de la Reine Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Zone neutre"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Îles du Pacifique"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Îles diverses du Pacifique des États-Unis"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Zone du canal de Panama"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Rhodésie du Sud"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "URSS, Union des républiques socialistes soviétiques"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timor oriental"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Viet-Nam, République démocratique du"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Île de Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yémen, République populaire démocratique du"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Yougoslavie, République socialiste fédérale de"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaïre, République du"

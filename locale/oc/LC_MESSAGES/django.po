@@ -1,0 +1,62 @@
+# Translation of ISO-3166 (country names) to Occitan
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2003
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Translations from KDE:
+#   - Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>, 2002.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-11-10 00:45+0100\n"
+"Last-Translator: Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>\n"
+"Language-Team: Occitan <laborde@crpp.u-bordeaux.fr>\n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Holanda"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Republica Dominicana"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Republica Dominicana"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "França Metropolitana"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Irlanda"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Republica Dominicana"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Irlanda"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Zòna neutra"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timòr Èst"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Republica Dominicana"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Irlanda"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Republica Dominicana"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Republica Dominicana"

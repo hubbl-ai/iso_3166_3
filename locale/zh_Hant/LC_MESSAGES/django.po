@@ -1,0 +1,118 @@
+# Translation of ISO-3166 (country names) to Traditional Chinese.
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#   Free Software Foundation, Inc., 2002, 2003.
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Translations from KDE:
+#   - AceLan <acelan@kde.linux.org.tw>, 2001.
+#   - Kenduest Lee <kenduest@i18n.linux.org.tw>, 2001.
+#   Tetralet <tetralet@gmail.com> 2004, 2007, 2008, 2009, 2010.
+#   Wei-Lun Chao <bluebat@member.fsf.org> 2010, 2012, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-09-03 13:09+0800\n"
+"Last-Translator: Wei-Lun Chao <bluebat@member.fsf.org>\n"
+"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "法屬阿法爾及伊薩"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "荷屬安地列斯"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "英屬南極洲領地"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "緬甸聯邦社會主義共和國"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "白俄羅斯蘇維埃社會主義共和國"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "捷克斯洛伐克社會主義共和國"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "塞爾維亞及蒙特內哥羅"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "坎呑及恩得伯利群島"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "德意志民主共和國"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "達荷美"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "法屬南方及南極領地"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "法蘭西都會行政區"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "吉爾柏特及埃里斯群島"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "上沃爾特共和國"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "約翰斯頓島"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "中途群島"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "新赫布里"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "毛德皇后地"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "中立區"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "太平洋島嶼託管地"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "美屬太平洋諸島"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "巴拿馬運河區"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "南羅得西亞"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "錫金"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "蘇維埃社會主義共和國聯邦"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "東帝汶"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "越南民主共和國"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "威克島"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "葉門民主人民共和國"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "南斯拉夫社會主義聯邦共和國"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "薩伊共和國"

@@ -1,0 +1,122 @@
+# translation of iso-codes_iso_3166_hi.po to Hindi
+# Translation of ISO-3166 (country names) to Hindi
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Data taken from ICU-2.8; originally from:
+#   - Shehnaz Nagpurwala and Anwar Nagpurwala [first version]
+#   - IBM NLTC:  http://w3.torolab.ibm.com/gcoc/documents/india/hi-nlsgg.htm
+#   - Arundhati Bhowmick [IBM Cupertino]
+#
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Kumar Appaiah <a.kumar@alumni.iitm.ac.in>, 2008.
+# Kumar Appaiah <kumar.appaiah@gmail.com>, 2008, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-02-12 08:02-0600\n"
+"Last-Translator: Kumar Appaiah\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "फ्रेंच अफार्स एंड इस्सास"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "नीदरलैंड्स ऐन्टिल्स"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ब्रिटिश एण्टार्कटिक टेरीटरी"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "बर्मा, सोशियलिस्ट रिपब्लिक ऑफ द यूनियन ऑफ"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "बेलोरूसियन एसएसआर सोवियत सोशियलिस्ट रिपब्लिक"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "चेकोस्लोवाकिया, चेकोस्लोवाक सोशियलिस्ट रिपब्लिक"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "सर्बिया एन्टक ऑफ मॉन्टेनेग्रो"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "कॅण्टन एंड एंडरबरी आइलैंड्स"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "जर्मन डेमोक्रेटिक रिपब्लिक"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "डहोमे"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "फ्रेंच साउदर्न एन्ड एंटार्कटिक टेरीटरीज़"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "फ्रांस, मेट्रोपॉलिटन"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "गिल्बर्ट एन्ड ऐलिस आइलैन्ड्स"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "अप्पर वोल्टा, रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "जॉन्सटन आइलैंड"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "मिडवे आइलैंड्स"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "न्यू हेब्रिडेस"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ड्रोनिंग मॉड लैंड"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "न्यूट्रल ज़ोन"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "पॅसिफिक आइलैंड्स"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "यूएस मिसलेनियस पॅसिफिक आइलैंड्स"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "पॅनामा कॅनाल ज़ोन"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "सथर्न रोडीशिया"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "सिक्किम"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "यूएसएसआर, यूनियन ऑफ सोशियलिस्ट रिपब्लिक्स"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "ईस्ट टिमोर"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "वियट्नाम, डेमोक्रेटिक रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "वेक ो आइलैंड्स"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "येमेन, डेमोक्रेटिक, डेमोक्रेटिक पीपल्स रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "यूगोस्लाविया, सोशियलिस्ट फेडरल रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ज़ाइरिया, रिपब्लिक ऑफ"

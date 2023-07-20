@@ -1,0 +1,117 @@
+# Translation of ISO-3166 (country names) to Thai
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2003
+#   Alastair McKinstry <mckinstry@computer.org>, 2002, 2004
+#   Translations from KDE:
+#   - Thanomsub Noppaburana <donga@midaassets.com>
+#   Theppitak Karoonboonyanan <theppitak@gmail.com>, 2005-2015
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-06-11 09:14+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <theppitak@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "อัฟฟาและอิสซาของฝรั่งเศส"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "เนเธอร์แลนด์แอนทิลลิส"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "บริติชแอนตาร์กติกเทร์ริทอรี"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "พม่า, สาธารณรัฐสังคมนิยมแห่งสหภาพ"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "เบโลรัสเซีย, สาธารณรัฐสังคมนิยมโซเวียต"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "เชโกสโลวะเกีย, สาธารณรัฐสังคมนิยม"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "เซอร์เบียและมอนเตเนโกร"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "หมู่เกาะแคนตันและเอนเดอร์เบอรี"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "เยอรมัน, สาธารณรัฐประชาธิปไตย"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "ดาโฮเมย์"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "เฟรนช์เซาเทิร์นและแอนตาร์กติกเทร์ริทอรีส์"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ฝรั่งเศสภาคพื้นทวีปยุโรป"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "หมู่เกาะกิลเบิร์ตและเอลลิซ"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "อัปเปอร์โวลตา, สาธารณรัฐ"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "เกาะจอห์นสตัน"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "หมู่เกาะมิดเวย์"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "นิวเฮบริดส์"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ดรอนนิงมอดแลนด์"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "เขตเป็นกลาง"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "หมู่เกาะแปซิฟิก (ทรัสต์เทร์ริทอรี)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "หมู่เกาะแปซิฟิกของอเมริกา"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "เขตคลองปานามา"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "โรดีเซียใต้"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "สิกขิม"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, สหพันธ์สาธารณรัฐสังคมนิยมโซเวียต"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "ติมอร์ตะวันออก"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "เวียดนาม, สาธารณรัฐประชาธิปไตย"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "เกาะเวก"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "เยเมน, สาธารณรัฐประชาธิปไตยประชาชน"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "ยูโกสลาเวีย, สหพันธ์สาธารณรัฐสังคมนิยม"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ซาอีร์, สาธารณรัฐ"

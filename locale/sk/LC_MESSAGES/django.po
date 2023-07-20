@@ -1,0 +1,120 @@
+# Translation of ISO-3166 (country names) to Slovak
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C)
+# Free Software Foundation, Inc., 2004
+# Peter Mann <Peter.Mann@tuke.sk>, 2004, 2006.
+# Pavol Cvengros <orpheus@hq.alert.sk>, 2001.
+# (translations from drakfw)
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Ivan Masár <helix84@centrum.sk>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015.
+# source:
+# http://www.geodesy.gov.sk
+# http://www.fao.org/ (historic names)
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-08-31 14:19+0200\n"
+"Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
+"Language-Team: x\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Francúzske pobrežie Afarov a Isasov"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Holandské Antily"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Britské antarktické územie"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Socialistická republika Barmský zväz"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Bieloruská sovietska socialistická republika"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Československo, Československá socialistická republika"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Srbsko a Čierna Hora"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "ostrovy Canton a Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Nemecká demokratická republika"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahome"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Francúzske južné a antarktické územia"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Metropolitné Francúzsko"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbertove a lagúnové ostrovy"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Republika Horná Volta"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midwajské ostrovy"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nové Hebridy"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Zem kráľovnej Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "neutrálne pôdy"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Poručnícke územie tichomorských ostrovov"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Tichomorské ostrovy pod správou USA"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamské prieplavové pásmo"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Rodézia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "ZSSR, Zväz sovietskych socialistických republík"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Východný Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnamská demokratická republika"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemenská ľudovodemokratická republika"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Socialistická federatívna republika Juhoslávia"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zairská republika"

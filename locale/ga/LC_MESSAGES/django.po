@@ -1,0 +1,115 @@
+# Translation of ISO-3166 (country names) to Irish
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+# Free Software Foundation, Inc., 2001,2003
+# Alastair McKinstry <mckinstry@debian>, 2001.
+# Kevin Scannell <kscanne@gmail.com>, 2008, 2009, 2010, 2011, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-03-03 11:35-0600\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Críoch Fhrancach na nAfach agus na nIosad"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Aintillí na hIsiltíre"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Críocha Briotanacha na hAntartaice"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Poblacht Shóisialach an Aontais"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Poblacht Sóivéadach Sóisialach na Bílearúise"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "An tSeicslóvaic, Poblacht Shóisialach"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "An tSeirbia agus Montainéagró"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Oileáin Canton agus Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Poblacht Dhaonlathach na Gearmáine"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dathómaí"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Críocha Francacha agus Antartacha"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "An Fhrainc, Ceannchathartha"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Oileáin Gilbert agus Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Volta Uachtarach, Poblacht"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Oileán Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Oileáin Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nua-Inse Ghall"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Tír Dronning Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Crios Neodrach"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Oileáin an Aigéin Chiúin (críoch iontaobhais)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Oileáin Éagsúla an Aigéin Chiúin de chuid S.A.M."
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Crios Chanáil Panama"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "An Róidéis Theas"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "Aontas na bPoblachtaí Sóivéadacha Sóisialacha"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Tíomór Thoir"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vítneam, Poblacht Dhaonlathach"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Oileán Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Éimin, Daonlathach, Daonphoblacht Dhaonlathach"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "An Iúgslaiv, Poblacht Shóisialach Chónaidhme"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Poblacht na Sáíre"

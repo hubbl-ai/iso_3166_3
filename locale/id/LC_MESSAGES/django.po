@@ -1,0 +1,113 @@
+# Translation of ISO-3166 (country names) to Indonesian
+# Copyright (C)
+# This file is distributed under the same license as the iso-codes package.
+# Arief S Fitrianto <arief@gurame.fisika.ui.ac.id>, 2004-2006.
+# Andhika Padmawan <andhika.padmawan@gmail.com>, 2011-2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-01-24 21:21+0700\n"
+"Last-Translator: Andhika Padmawan <andhika.padmawan@gmail.com>\n"
+"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Prancis, Afars dan Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Antilles Belanda"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Wilayah Antartika Inggris"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Republik Sosialis Persatuan Birma"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Republik Sosialis Soviet Belarusia"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Republik Sosialis Chekoslovakia"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia dan Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Kepulauan Canton dan Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Republik Demokrat Jerman"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Perancis, Wilayah Bagian Selatan dan Antartika"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Prancis, Metropolitan"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Kepulauan Gilbert dan Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Republik Volta"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Kepulauan Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Kepulauan Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Hebrida Baru"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dataran Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Zona Netral"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Kepulauan Pasifik (Wilayah Kepercayaan)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Kepualau Pasifik Amerika"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Zona Terusan Panama"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Rhodesia Selatan"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "Republik Sosialis Soviet Serikat"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timor Timur"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Republik Demokrat Viet-Nam"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Kepulauan Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Republik Demokratik Rakyat Yaman"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Republik Federasi Sosialis Yugoslavia"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Republik Zaire"

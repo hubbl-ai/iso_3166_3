@@ -1,0 +1,69 @@
+# Translation of ISO-3166 (country names) to Azerbaijani
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2004
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   (Translations from drakfw)
+#   Mətin Əmirov <metin@karegen.com>, 2004.
+#   Alastair McKinstry - further translations from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-02-09 15:15+0200\n"
+"Last-Translator: Metin Amiroff <metin@karegen.com>\n"
+"Language-Team: Azerbaijani <translation-team-az@lists.sourceforge.net>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Holland Antilləri"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Britaniya Hind Okeanı Sahəsi"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Koreya, Demokratık Xalq Respublikası"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Koreya, Respublika"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Konqo, Demokratik Respublikası"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Cənubi Fransız Sahələri"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Türk və Kaykos Adaları"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Koreya, Respublika"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Cook Adaları"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Kayman Adaları"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Koreya, Demokratık Xalq Respublikası"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Faro Adaları"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Koreya, Demokratık Xalq Respublikası"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Koreya, Respublika"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Koreya, Respublika"

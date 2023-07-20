@@ -1,0 +1,114 @@
+# Translation of ISO 3166 (country names) to Assamese
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-04-05 17:41+0530\n"
+"Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ফ্ৰেঞ্চ আফাৰ্চ আৰু ইচাচ"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "নেডাৰলেণ্ড এন্টিলজ"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ব্ৰিটিশ্ব আন্টাৰ্কটিক অঞ্চল"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰী সংযুক্ত বাৰ্মা"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "বাইলোৰাছিয়ান SSR ছেভিয়ে সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "চেকোস্লোভাকিয়া, চেকোস্লাভ সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "ছাইবেৰিয়া আৰু মন্টেনেগ্ৰো"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "কেন্টন আৰু এন্ডাৰ্বুৰি দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "জাৰ্মান গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "দাহোমে"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ফ্ৰেঞ্চ দক্ষিণ আৰু আন্টাৰ্কটিক অঞ্চল"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ফ্ৰান্স, মহানগৰীয় অঞ্চল"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "গিলবাৰ্ট আৰু এলিচ দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "আপাৰ ভোল্টা প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "জনস্টন দ্বীপ"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "মিডৱে দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "নিউ হেব্ৰিডচ"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ড্ৰোনিং মড লেন্ড"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "নিৰপক্ষ অঞ্চল"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "পেচিফিক দ্বীপপুঞ্জ (ট্ৰাস্ট অঞ্চল)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "মাৰ্কিন যুক্তৰাষ্ট বিবিধ পেচিফিক দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "পানামা খাল অঞ্চল"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "দক্ষিণ ৰোডেছিয়া"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "চিক্কিম"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "ইউএচএচআৰ, সংযুক্ত ছোভিয়েত সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "পূৰ্ব টাইমৰ"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ভিয়েতনাম, গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ৱেক দ্বীপ"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "ইয়েমেন, প্ৰজাতন্ত্ৰ, গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "যুগোস্লাভিয়া, সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "জায়েৰ প্ৰজাতন্ত্ৰ"

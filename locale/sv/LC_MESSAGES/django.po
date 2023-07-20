@@ -1,0 +1,116 @@
+# Swedish translations of ISO-3166 country names.
+# Copyright (C) 2001, 2003, 2004, 2007, 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Mattias Newzella <newzella@linux.nu, 2001.
+#  (translations from drakfw)
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Christian Rose <menthos@menthos.com>, 2004.
+# Daniel Nylander <po@danielnylander.se>, 2007, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-01-06 14:24-0600\n"
+"Last-Translator: Mick Ohrberg <mick.ohrberg@gmail.com>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Franska Afars och Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Nederländska Antillerna"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Brittiska antarktiska territoriet"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burman, socialistrepubliken"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Vitryska SSR"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tjeckoslovakien, tjeckoslovakiska socialistrepubliken"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbien och Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton och Enderburyöarna"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Tyska demokratiska republiken"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Franska antarktiska och sydterritorierna"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Frankrike, Metropolitan"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert och Elliceöarna"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Övre Volta, republiken"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnstonön"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midwayöarna"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nya Hebriderna"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Drottning Mauds land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neutral zon"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Stillahavsöar (trust territory)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Diverse amerikanska stillahavsöar"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamas kanalzon"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Södra Rhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "Sovjetunionen"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Östtimor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, demokratiska republiken"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wakeön"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemen, demokratiska, demokratiska folkrepubliken"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoslavien, förenade socialistrepubliken"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, republiken"

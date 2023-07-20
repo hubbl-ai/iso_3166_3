@@ -1,0 +1,116 @@
+# Translation of ISO-3166 (country names) to Nepali
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+#   Shyam Krishna Bal <shyamkrishna_bal@yahoo.com>, 2006.
+# Shiva Prasad Pokharel <pokharelshiva@hotmail.com>, 2006, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: ne_merge\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2011-02-22 16:39-0600\n"
+"Last-Translator: Shiva Prasad Pokharel <pokharelshiva@hotmail.com>\n"
+"Language-Team: Nepali <info@mpp.org.np>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=(n!=1)\n"
+"X-Generator: Lokalize 1.1\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "फ्रेन्स अफारस र इशास"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "नेदरल्याण्ड एनटिलेस"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ब्रिटिश आन्टारटिक क्षेत्र"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "समाजवादी गणराज्य बर्मा"
+
+msgid "ISO_3166-3.BYAA"
+msgstr " सोबियत समाजवादी गणराज्य एस.एस.आर बाईर्लोशियन"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "चेक्वोस्लोभाकिया समाजवादी गणराज्य चेक्वोस्लोभाकिया"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "सर्बिया र मोनटिनग्रो"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "क्यानटन र ईन्डरब्युरि टापुहरु"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "प्रजातान्त्रिक गणराज्य, जर्मन"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "डाहोमे"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "दक्षिणि फ्रेन्स र आन्टरटिक क्षेत्रहरु"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "महानगरपालिका, फ्रान्स"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "गिलबर्ट र ईलाइक टापुहरु"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "गणराज्य, माथिल्लो भोल्टा"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "जोनशटन टापु"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "मिडवोय टापुहरु"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "न्यू हेब्राइड्स"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ड्रोवनिङ माउड भुमि"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "तटस्थ क्षेत्र"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "प्यासिफिकी टापु"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "यू.स बिविध प्यासिफ टापुहरु"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "पानामा नहर क्षेत्र"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "दक्षिणि रहोडिशिया"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "सिक्किम"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "सोबियत समाजबादि गणराज्यको संगठन, यू.स.स.आर"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "पश्चिम टिमुर"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "प्रजातन्त्रिक जनगणराज्य, भेयतनाम"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake टापु"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "प्रजातन्त्रिक, जनताको प्रजातन्त्रिक जनगणराज्य, येमिन"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "समाजवादी संघीय गणराज्य, यूगोसलाभिया"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "गणराज्य,जायर"

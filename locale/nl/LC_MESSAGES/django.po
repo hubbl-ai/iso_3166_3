@@ -1,0 +1,116 @@
+# translation of iso_3166-3.46.nl.po to Dutch
+# Dutch translation of iso_3166.
+# Copyright (C) 2004, 2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Elros Cyriatan <cyriatan@fastmail.fm>, 2004.
+# Luk Claes <luk.claes@ugent.be>, 2005.
+# Freek de Kruijf <f.de.kruijf@gmail.com>, 2006, 2007, 2008, 2009, 2010, 2011,2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-09-15 13:42+0200\n"
+"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Frans Territorium voor Afars en Issa's"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Nederlandse Antillen"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Brits Antarctisch Territorium"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Birma"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Wit-Russische SSR Socialistische Sovjetrepubliek"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tsjechoslowakije, Tsjechoslowaakse Socialistische Republiek"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Servië en Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton en Enderbury-eilanden"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Duitse Democratische Republiek"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Franse Zuidelijke en Antarctische Gebieden"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Frankrijk, Metropolitaans"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert en Ellice-eilanden"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Opper-Volta, Republiek"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston-eiland"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway-eilanden"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nieuwe Hebriden"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud-land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neutrale Zone"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pacifische Eilanden (Trustgebied)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Kleine afgelegen pacifische eilanden van de VS"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamakanaalzone"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Zuid-Rhodesië"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, Unie van Socialistische Sovjetrepublieken"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Oost-Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, Democratische Republiek"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake-eiland"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemen, Democratische, Democratische Volksrepubliek"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Joegoslavië, Socialistische Federale Republiek"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaïre, Republiek"

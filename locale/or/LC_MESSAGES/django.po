@@ -1,0 +1,114 @@
+# Translation of ISO 3166 (or.po) to Oriya
+# Copyright (C) 2010  Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-04-07 12:26+0530\n"
+"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ଫରାସୀ ଆଫାର ଏବଂ ଇସାସ"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "ନିଦରଲ୍ଯାଣ୍ଡ ଇଣ୍ଟାଇଲସ୍"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ବ୍ରିଟିସ ଆଣ୍ଟାର୍କଟିକା ଶାସିତ ଅଞ୍ଚଳ"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "ବର୍ମା, ସମାଜତନ୍ତ୍ରବାଦୀ ଗଣତନ୍ତ୍ର ସଂଘ"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "ବାଇଲୋରୁସିଆନ SSR ସୋଭିଏତ ସମାଜତନ୍ତ୍ରବାଦୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "ଚେକୋସ୍ଲୋବାକିଆ, ଚେକୋସ୍ଲୋଭାକ ସମାଜତନ୍ତ୍ରବାଦୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "ସାର୍ବିଆ ଏବଂ ମଣ୍ଟେନିଗ୍ରୋ"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "କାଣ୍ଟୋନ ଏବଂ ଏଣ୍ଡରବୁରି ଦ୍ୱିପପୁଞ୍ଜ"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ଜର୍ମାନ ପ୍ରଜାତାନ୍ତ୍ରିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "ଡାହୋମି"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ଫରାସୀ ଦକ୍ଷିଣ ଏବଂ ଆଣ୍ଟାର୍କଟିକା ଶାସିତ ଅଞ୍ଚଳଗୁଡ଼ିକ"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ଫ୍ରାନ୍ସ, ମହାନଗର"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "ଗୀଲବେଟ ଏବଂ ଏଲିସ ଦ୍ୱିପପୁଞ୍ଜ"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "ଉପର ଭୋଲଟା, ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ଜନଷ୍ଟନ ଦ୍ୱିପପୁଞ୍ଜ"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "ମିଡୱେ ଦ୍ବୀପ"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "ନୂତନ ହବ୍ରିଡ"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ଡ୍ରନିଙ୍ଗ ମାଉଦ ଭୂମି"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "ନିରପେକ୍ଷ ଅଞ୍ଚଳ"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "ପ୍ରଶାନ୍ତ ଦ୍ୱିପପୁଞ୍ଜ (ବିଶ୍ୱସ୍ତ ଶାସିତ ଅଞ୍ଚଳ)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "US ବିବିଧ ପ୍ରଶାନ୍ତ ଦ୍ୱିପପୁଞ୍ଜ"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "ପାନାମା କେନାଲ କ୍ଷେତ୍ର"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "ଦକ୍ଷିଣ ରୋଡେସିଆ"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "ସିକିମ"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, ସଂଯୁକ୍ତ ସୋଭିଏତ ସମାଜବାଦୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "ପୂର୍ବୀ ତିମୋର"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ଭିଏତନାମ, ସମାଜବାଦୀ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ଓ୍ବେକ ଦ୍ବୀପ"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "ୟେମେନ, ପ୍ରଜାତାନ୍ତ୍ରିକ, ସର୍ବସାଧାରଣ ପ୍ରଜାତାନ୍ତ୍ରିକ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "ଯୁଗୋସ୍ଲାଭିଆ, ସମାଜବାଦୀ ଫେଡେରାଲ ଗଣତନ୍ତ୍ର"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ଜାଇରେ, ଗଣତନ୍ତ୍ର"

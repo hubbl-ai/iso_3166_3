@@ -1,0 +1,116 @@
+# translation of nn.po to Norwegian nynorsk
+# Translation of ISO-3166 (country names) to Norwegian Nynorsk
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+#   Håvard Korsvoll <korsvoll@gmail.com>, 2004,2006, 2007, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: nn\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-02-12 13:17+0100\n"
+"Last-Translator: Haavard Korsvoll\n"
+"Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Fransk Afars og Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Dei nederlandske Antillane"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Britisk antarktis"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Unionen Myanmar"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Den sovjetiske sosialistiske republikk kviterussland"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tsjekkoslovakia, tsjekkoslovakisk sosialistisk republikk"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia og Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Kanton og Endebury øyane"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Den tyske demokratiske republikken"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Franske sørlege og antarktiske territorium"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Metropolitan-Frankrike"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert og Ellice-øyane"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Republikken Øvre Volta"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnstonøyane"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midwayøyane"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nye hebridane"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Nøytral sone"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Stillehavsøyane (trust territory)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "US ymse stillehavsøyar"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panama kanalsone"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Sør-Rhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "SSSR, Sambandet av Sosialistiske Sovjet-Republikkar"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Aust-Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Den demokratiske republikken Vietnam"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake Island"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Den demokratiske folkerepublikken Jemen"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Den sosialistiske føderale republikken Jugoslavia"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Republikken Zaire"

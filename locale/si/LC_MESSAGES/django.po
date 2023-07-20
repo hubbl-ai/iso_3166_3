@@ -1,0 +1,115 @@
+# Translation of ISO 3166 (country names) to Sinhala
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+#
+# Danishka Navin <danishka@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2011-09-05 09:00+0530\n"
+"Last-Translator: Danishka Navin <danishka@gmail.com>\n"
+"Language-Team: Sinhala <info@hanthana.org>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ප්‍රංශ අෆාර හා ලසසාස්"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "නෙදර්ලන්ත ඇන්ටිලිසි්"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "බ්‍රිතාන්‍ය ඇන්ටාක්ටික් ප්‍රදේශ"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "බර්මා සමාජවාදී ජනරජය"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "බෙලෝරුසියානු SSR සෝවියට් සමාජවාදී ජනරජය"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "චෙකෝස්ලෝවැකියාව, චෙකෝස්ලෝවැකියා සමාජවාදී ජනරජය"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "සර්බියාව හා මොන්ටෙන්ග්‍රෝ"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "කැන්ඩන් හා එන්ඩබරි දූපත්"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ජර්මානු ප්‍රජාතාන්ත්‍රික ජනරජය"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "දහෝමේ"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ප්‍රංශ දකුණු හා ඇන්ටාක්ටික් ප්‍රදේශ"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ප්‍රංශය, මෙට්‍රොපොලිටන්"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "ගිල්බටව හා එලිස් දූපත්"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "ඉහළ වෝල්ටා ජනරජය"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ජොන්ස්ට්න් දූපත"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "මිඩ්වේ දූපත්"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "නව හෙබ්‍රිඩෙස්"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ඩ්‍රෝනින් මෝඩ් බිම්"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "නිශ්ක්‍රීය කලාපය"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "පැසිෆික් දූපත් (විශ්වාස ප්‍රදේශ)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "විවිධ එ.ජ පැසිෆික් දූපත්"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "පැනමා ඇල ප්‍රදේශය"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "දකුණු රොඩේශියාව"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "සික්කිම්"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, සෝවියට් සමාජවාදී ජනරජ ඒකාබද්ධ රාජ්‍යය"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "නැගෙනහිර ටිමෝරය"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ප්‍රජාතාන්ත්‍රික වියෙට්නාම ජනරජය"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "වේක් දූපත"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "යේමන, ප්‍රජාතාන්ත්‍රික, මහජන ප්‍රජාතාන්ත්‍රික ජනරජය"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "ෆෙඩරල් සමාජවාදී යුගෝස්ලෝවියා ජනරජය"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "සයිරේ ජනරජය"

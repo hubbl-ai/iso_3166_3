@@ -1,0 +1,114 @@
+# translation of iso-codes_iso_3166_ta.po to Tamil
+# Translation of ISO 3166 (country names) to Tamil
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+#   Dr.T.Vasudevan <agnihot3@gmail.com>, 2007, 2008.
+# Copyright (C)
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-05-03 21:08+0530\n"
+"Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
+"Language-Team: Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "பிரெஞ்சு அபார்ஸ் மற்றும் இஸாஸ்"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "நெதர்லாந்து அன்டில்சு"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ப்ரிட்டிஷ் அண்டார்டிக் பிரதேசம்"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "பர்மா யூனியன் சோஷலிஸ குடியரசு"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "பிலோ ரஷ்யன் எஸ்எஸ்ஆர் சோவியத் சோசலிச குடியரசு"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "செக்கோஸ்லோவாகியா, செக்கோஸ்லோவாகியா சோசலிச குடியரசு"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "செர்பியா மற்றும் மோன்டே நெக்ரோ குடியரசு"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "கேன்டன் மற்றும் என்டர்புரி தீவுகள்"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ஜெர்மானிய ஜனநாயக குடியரசு "
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "லாஹோமெ"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ஃப்ரெஞ்ச் தெற்கு மற்றும் அண்டார்டிக் பிரதேசங்கள்"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ஃப்ரான்ஸ், பெருநகரம்"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "ஜில்பெர் மற்றும் எலைஸ் தீவுகள்"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "மேல் வோல்டா குடியரசு"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ஜான்ஸ்டன் தீவு"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "மிட்வே தீவுகள்"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "புதிய ஹெப்ரைட்ஸ்"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ட்ரோனிங் மாட் லாண்ட்"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "மையமான மண்டலம்"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "பசிபிக் தீவுகள் (அறக்கட்டளை நிலப்பரப்பு)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "யூஎஸ் பிற பசிபிக் தீவுகள்"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "பனாமா வாய்கால் மண்டலம்"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "தெற்கு ரொடீசியா"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "சிக்கிம்"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "யூஎஸ்எஸ்ஆர் சோவியத் சோசலிச யூனியன் குடியரசுகள்"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "கிழக்கு தைமோர்"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "வியட்நாம் ஜனநாயக மக்கள் குடியரசு"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "வேக் தீவு"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "யேமான்,ஜனநாயக, ஜனநாயக மக்கள் குடியரசு"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "யூகோஸ்லாவாகியா சோஷலிஸ ஐக்கிய குடியரசு"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ஜாய்ர் குடியரசு"

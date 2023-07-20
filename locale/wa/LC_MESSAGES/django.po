@@ -1,0 +1,112 @@
+# Translation of `iso_3166_1' messages to Walloon.
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Pablo Saratxaga <pablo@walon.org>, 2004,2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2012-06-05 18:57+0200\n"
+"Last-Translator: Pablo Saratxaga <pablo@walon.org>\n"
+"Language-Team: Walloon <linux-wa@walon.org>\n"
+"Language: wa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.2\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Afars et Issas Francès"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Antiyes neyerlandesses"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Teritweres britanikes d' Antartike"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Birmaneye, Republike Socialisse di l' Union del"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Bielorûsseye, Republike Socialisse Sovietike di"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tchecoslovakeye, Republike Socialisse Tchecoslovake"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbeye et Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Iyes Canton ey Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Almagne Democratike, Republike Democratike Almande"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Teritweres francès do sud et d' Antartike"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "France, Metropolitinne"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Iyes Djilbert ey Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Hôte Volta, Republike di"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Iye Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Iyes Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nouvès Hebrides"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Tere di Dronning Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Zône Neute"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Iyes do Pacifike (teritwere di confiance)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Ôtès Iyes do Pacifike des Estats-Unis"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Zône do Canå d' Panama"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Rodezeye Nonnrece"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "URSS, Union des Republikes Socialisses Sovietikes"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timor Ess"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, Republike Democratike do"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Iye Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen Democratike, Republike Democratike Populaire do"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Yougoslaveye, Republike Socialisse Federåle di"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zayire, Republike do"

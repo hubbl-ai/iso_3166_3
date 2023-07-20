@@ -1,0 +1,115 @@
+# Translation of ISO-3166 (country names) to Japanese
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2002, 2010, 2011 Free Software Foundation, Inc.
+#   Alastair McKinstry, <mckinstry@computer.org>, 2002.
+#   Translations from KDE:
+#   - Taiki Komoda <kom@kde.gr.jp>
+#   Kenshi Muto <kmuto@debian.org>, 2006-2007
+# Yasuaki Taniguchi <yasuakit@gmail.com>, 2010, 2011.
+# victory <victory.deb@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-08-01 22:10+0900\n"
+"Last-Translator: Yasuaki Taniguchi <yasuakit@gmail.com>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "仏領アファール及びイッサ"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "オランダ領アンティル諸島"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "英国南極領土"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "ビルマ社会主義連邦共和国"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "白ロシア SSR ソビエト社会主義共和国"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "チェコスロヴァキア社会主義共和国"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "セルビア及びモンテネグロ"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "カントン及びエンダーベリ島"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ドイツ民主共和国"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "ダオメー"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "フランス南方および南極領土"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "フランス, メトロポリタン"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "ギルバート及びエリス諸島"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "アッパーボルタ共和国"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ジョンストン島"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "ミッドウェー諸島"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "ニューヘブリディーズ"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ドローニングモードランド"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "中立地帯"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "太平洋諸島 (信託統治領)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "米領太平洋諸島"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "パナマ運河地区"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "南ローデシア"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "シッキム"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR ソビエト社会主義共和国連邦"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "東ティモール"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ベトナム民主共和国"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ウェーク島"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "イエメン民主主義人民共和国"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "ユーゴスラビア社会主義連邦共和国"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ザイール共和国"

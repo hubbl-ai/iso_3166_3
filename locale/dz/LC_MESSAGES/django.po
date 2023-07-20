@@ -1,0 +1,117 @@
+# Translation of ISO-3166 (country names) to Dzongkha
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2006
+#   Kinley Tshering <gaseokuenden2k3@hotmail.com>, 2006
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-06-25 14:33+0530\n"
+"Last-Translator: yumkee <ylhamo@dit.gov.bt>\n"
+"Language-Team: Dzongkha <pgyeleg@dit.gov.bt>\n"
+"Language: dz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=(n!=1);\n"
+"X-Poedit-Country: Bhutan\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ཕེརེནཅ་ ཨ་ཕརསི་དང་ཨི་སཱསི་"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "ནེ་དར་ལེནཌིསི་ ཨེན་ཊི་ལེསི།"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "བིརི་ཊིཤ་ ཨེན་ཊཀ་ཊིཀ་ ས་ཁོངས།(ཕྱི་གླིངཔ་དང་རྒྱ་གར་གྱི་རྒྱ་མཚོའི་དབང་བསྒྱུར་ས་ཁོངས)།"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "འདུས་ཚོགས་ཀྱི་སོ་ཤི་ཡ་ལིསཊི་ རི་པཔ་ལིག་ བར་མ་"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "བའི་ལོ་ར་ཤི་ཡཱན་ ཨེསི་ཨེསི་ཨར་ སོ་བེཊི་ སྤྱི་དབང་རིམ་ལུགས་མི་སེར་རྒྱལ་ཁབ་"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "ཅེག་ཀོས་ལོ་བ་ཀི་ཡ་ ཅེག་ཀོས་ལོ་བེག་ སྤྱི་དབང་རིམ་ལུགས་མི་སེར་རྒྱལ་ཁབ་"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "སར་བི་ཡ་ དང་ མཱོན་ཏེ་ནི་གོརོ་"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "ཀེན་ཊཱོན་དང་ཨེན་ཌི་བུ་རི་ ཨའི་ལེནཌི་"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ཇར་མེན་ མི་སེར་དམང་གཙོའི་གཞུང་"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "ད་ཧོ་མེ་"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ཕེརེནཆི་ ལྷོ་ཕྱོགས་དང་ ཨེན་ཊཀ་ཊིཀ་ས་ཁོངས།"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ཕ་རནསི་ མི་ཊོ་པོ་ལི་ཊེན་"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "གིལ་བརཊི་དང་ཨི་ལའིསི་ ཨའི་ལེནཌིསི་"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "རི་པཔ་ལིཀ་ སྟོད་ བཱོལ་ཊ་"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ཇཱོན་སི་ཊོན་ ཨའི་ལེནཌི་"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "མིཌ་ཝེ་ ཨའི་ལེནཌིསི།"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "ནིའུ་ ཧེ་བིརའིཌིསི་"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ཌོ་ནིང་མའུཊི་ལེནཊི་"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "བར་གནས་གླིང་སྡེ་"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "པེ་སི་ཕིག་ ཨའི་ལེནཌིསི་༼ཊསཊི་ ཊེ་རི་ཊོ་རི་༽"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "ཡུ་ཨེསི་ པེ་སི་ཕིག་ ཨའི་ལེནཌིསི་ སྣ་ཚོགས་"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "པ་ན་མ་ ཀེ་ནཱལ་ ཛཱོན་"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "ལྷོ་ཕྱོགས་ རཱོ་དེ་ཤི་ཡ་"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "སི་ཀིམ་"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "ཡུ་ཨེསི་ཨེསི་ཨར་ སོ་བེའིཊ་ སོ་ཤ་ལིསཊི་ རི་པཔ་ལིག་འདུས་ཚོགས་"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "ཤར་ཕྱོགས་ ཊི་མོར་"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "མི་སེར་དམངས་གཙོའི་གཞུང་ བེའིཊ་ནམ་"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ཝེག་ཨའི་ལེནཌི་"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "ཡེ་མེན་ དམངས་གཙོའི་རྒྱལ་ཁབ་ མི་སེར་དམངས་གཙོའི་རྒྱལ་ཁབ་"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "སོ་ཤི་ཡ་ལིསཊི་ ཕི་ཌེ་རེལ་ རི་པཔ་ལིག་ ཡུ་གཱོས་ལ་བི་ཡ་ "
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "རི་པཔ་ལིག་ ཛེའི་རི་"

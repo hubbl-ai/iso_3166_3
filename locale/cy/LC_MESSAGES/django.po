@@ -1,0 +1,116 @@
+# Translation of ISO-3166 (country names) to Welsh
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   - translations from ICU-3.0
+#   Dafydd Harries <daf@muse.19inch.net>, 2004,2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-03-04 10:54-0000\n"
+"Last-Translator: Dafydd Tomos <l10n@da.fydd.org>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Afars a Issas Ffrengig"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Antilles yr Iseldiroedd"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Tiriogaeth Antarctig Prydain"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Gweriniaeth Sosialaidd Undeb"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Gweriniaeth Sosialaidd Sofiet SSR Belorussia "
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tsiecoslofacia, Gweriniaeth Sosialaidd Tsiecoslofac"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia a Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Ynysoedd Canton ac Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Gweriniaeth Ddemocrataidd yr Almaen"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Tiroedd Deheuol ac Antarctig Ffrainc"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Ffrainc, Metropolitan"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Ynysoedd Gilbert a Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Volta Uchaf, Gweriniaeth"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Ynys Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Ynysoedd Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Hebrides Newydd"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Tir Dronning Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Parth Niwtral"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Ynysoedd y Cefnfor Tawel (tiriogaeth ymddiriedol)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Ynysoedd amrywiol UD y Cefnfor Tawel"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Parth Camlas Panama"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "De Rhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "Undeb Gweriniaethau Sofietaidd Sosialaidd, USSR"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Dwyrain Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Fietnam, Gweriniaeth Democrataidd"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Ynys Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen, Democrataidd, Gweriniaeth Democrataidd Pobl"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Iwgoslafia, Gweriniaeth Ffederal Sosialaidd"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, Gweriniaeth"

@@ -1,0 +1,125 @@
+# Translation of ISO-3166 (country names) to Hungarian
+# Copyright (C) 2001, 2003, 2004, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   (translations from drakfw)
+#
+#   Arpad Biro <biro_arpad@yahoo.com>, 2001.
+#   VERÓK István <vi@fsf.hu>, 2004.
+#   SZERVÁC Attila <sas@321.hu>, 2006.
+#   Kalman Kemenczy <kkemenczy@novell.com>, 2007, 2008.
+#   Gabor Kelemen <kelemeng@gnome.hu>, 2006, 2007.
+#   Kalman Kemenczy <kkemenczy@gmail.com>, 2010, 2011, 2012, 2013.
+#   Balázs Úr <urbalazs@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-07-11 08:51+0200\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"devel@lists.alioth.debian.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Francia Afars és Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Holland Antillák"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Brit Antarktiszi Terület"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burmai Unió Szocialista Köztársaság"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Belorusz Szovjet Szocialista Köztársaság"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Csehszlovákia, Cseh Szocialista Köztársaság"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Szerbia és Montenegró"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton- és Enderbury-szigetek"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Német Demokratikus Köztársaság"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Francia déli területek"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Franciaország, Metropolitan"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert- és Ellice-szigetek"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Felső-Volta Köztársaság"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston-atoll"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway-atoll"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Új-Hebridák"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Maud királyné föld"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Szaudi-iraqi semleges övezet"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Csendes-óceáni szigetek (gyámsági terület)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Egyesült Államok Egyéb Csendes-óceáni szigetek"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panama-csatorna"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Dél-Rodézia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Szikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "Szovjetunió"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Kelet-Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnami Demokratikus Köztársaság"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake-sziget"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemeni Népi Demokratikus Köztársaság"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoszlávia, Demokratikus Föderatív Jugoszláv Köztársaság"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire-i Köztársaság"

@@ -1,0 +1,114 @@
+# Translation of ISO 3166 (country names) to Bengali
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Nasir Khan <nasir.khan@bdosn.org>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-12-12 16:56+0600\n"
+"Last-Translator: Nasir Khan <nasir.khan@bdosn.org>\n"
+"Language-Team: Bengali <(nothing)>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ফ্রেঞ্চ আফারস ও ইসাস"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "নেদারল্যান্ডস অ্যান্টিলিস"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ব্রিটিশ আন্টার্কটিক অঞ্চল"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "সমাজতান্ত্রিক প্রজাতন্ত্রী সংযুক্ত বার্মা"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "বাইলোরাশিয়ান SSR সেভিয়ে সমাজতান্ত্রিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "চেকোস্লোভাকিয়া, চেকোস্লাভ সমাজতান্ত্রিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "সার্বিয়া ও মন্টেনেগ্রো"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "ক্যান্টন ও এন্ডারবুরি দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "জার্মান গণতান্ত্রিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "দাহোমে"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ফ্রেঞ্চ দক্ষিণ ও আন্টার্কটিক অঞ্চল"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ফ্রান্স, মহানগরীয় অঞ্চল"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "গিলবার্ট ও এলিস দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "আপার ভোল্টা প্রজাতন্ত্র"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "জনস্টন দ্বীপ"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "মিডওয়ে দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "নিউ হেব্রিডস"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ড্রোনিং মড ল্যান্ড"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "নিরপক্ষ অঞ্চল"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "প্যাসিফিক দ্বীপপুঞ্জ (ট্রাস অঞ্চল)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "মার্কিন যুক্তরাষ্ট বিবিধ প্যাসিফিক দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "পানামা খাল অঞ্চল"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "দক্ষিণ রোডেশিয়া"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "সিক্কিম"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "ইউএসএসআর, সংযুক্ত সোভিয়েত সমাজতান্ত্রিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "পূর্ব টিমোর"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ভিয়েতনাম, গণতান্ত্রিক প্রজাতন্ত্র"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ওয়েক দ্বীপপুঞ্জ"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "ইয়েমেন, প্রজাতন্ত্র, গণতান্ত্রিক গণপ্রজাতন্ত্রী"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "যুগোস্লাভিয়া, সমাজতান্ত্রিক প্রজাতন্ত্রী যুক্তরাষ্ট্র"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "জায়ের প্রজাতন্ত্র"

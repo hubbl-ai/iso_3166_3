@@ -1,0 +1,114 @@
+# Translation of ISO 3166-3 to LANGUAGE
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "French Afars and Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Netherlands Antilles"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "British Antarctic Territory"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Socialist Republic of the Union of"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Byelorussian SSR Soviet Socialist Republic"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Czechoslovakia, Czechoslovak Socialist Republic"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia and Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton and Enderbury Islands"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "German Democratic Republic"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "French Southern and Antarctic Territories"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "France, Metropolitan"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert and Ellice Islands"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Upper Volta, Republic of"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston Island"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway Islands"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "New Hebrides"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neutral Zone"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pacific Islands (trust territory)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "US Miscellaneous Pacific Islands"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panama Canal Zone"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Southern Rhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, Union of Soviet Socialist Republics"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "East Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Viet-Nam, Democratic Republic of"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake Island"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen, Democratic, People's Democratic Republic of"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Yugoslavia, Socialist Federal Republic of"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, Republic of"

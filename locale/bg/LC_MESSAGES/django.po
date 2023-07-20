@@ -1,0 +1,120 @@
+# Translation of ISO-3166 (country names) to Bulgarian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+#   Free Software Foundation, Inc., 2004.
+#   Georgi Georgiev <assenov_g@operamail.com>, 2001, 2004.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Ognyan Kulev <ogi@fmi.uni-sofia.bg>, 2004.
+#   Damyan Ivanov <dmn@debian.org>, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2014, 2016.
+# Copyright (C)
+#   (translations from drakfw)
+#   - further translations from ICU-3.9
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2016-01-03 17:54+0200\n"
+"Last-Translator: Damyan Ivanov <dmn@debian.org>\n"
+"Language-Team: Bulgarian <dict@ludost.net>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Френски Афари и Исаи"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Холандски Антили"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Британски антарктически територии"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Бурма, Социалистическа република на обединението"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Белоруска ССР"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Чехословакия, Чехословашка социалистическа република"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Сърбия и Черна гора"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Острови Кантон и Ендербъри"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Германска Демократична Република"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Дахоми"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Френски южни и антарктически територии"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Франция, метрополитен"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Острови Гилберт и Елис"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Горна Волта, Република"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Остров Джонсън"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Острови Мидуей"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Нови Хебриди"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Земя на кралица Мод"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Неутрална зона"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Тихоокеански острови"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "САЩ - тихоокеански острови"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Панама централна зона"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Южна Родезия"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Сиким"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "СССР, Съюз на съветските социалистически републики"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Източен Тимор"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Виетнам, Демократична република"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Остров Уейк"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Йемен, Демократична, Народна демократична република"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Югославия, Социалистическа федеративна република"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Заир, Република"

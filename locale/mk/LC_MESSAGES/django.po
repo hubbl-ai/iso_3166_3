@@ -1,0 +1,117 @@
+# translation of iso-codes_iso_3166_mk.po to Macedonian
+# translation of mk.po to
+# Translation of ISO-3166 (country names) to Macedonian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+#   Georgi Stanojevski <glisha@gmail.com>, 2004, 2006.
+# Arangel Angov <ufo@linux.net.mk>, 2008, 2009, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2011-06-20 11:05+0100\n"
+"Last-Translator: Arangel Angov <arangel@linux.net.mk>\n"
+"Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Француски Афарс и Исас"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Холандски антили"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Британска антартичка територија"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Социјалистичка република на сојузот на Бурма"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Беолоруска ССР Советска социјалистичка република"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Чехословачка, Чехословачка социјалистичка Република"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Србија и Црна Гора"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Кантон и Ендербури"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Демократска република Германија"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Дахомеј"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Јужни француски територии и антартички територии"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Франција, Метрополијан"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Островите Гилберт и Елис"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Република горна Волта"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Островот на Џонстон"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Острови Мидвеј"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Нов Хебридес"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Неутрална зона"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Пацифички острови (сигурна територија)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Разни острови на САД во пацификот"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Панамски канал"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Јужна Родезија"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Сиким"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "УССР, Унија на советски социјалистички републики"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Источен Тимор"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Демократска република Виетнам"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Островот Вејк"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Демократска република Јемен"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Социјалистичка федеративна република Југославија"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Република Заир"

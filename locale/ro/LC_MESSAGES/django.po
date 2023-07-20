@@ -1,0 +1,116 @@
+# Translation of ISO-3166 (country names) to Romanian
+# This file is distributed under the same license as the iso-codes package.
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Eddy Petrișor <eddy.petrisor@gmail.com>, 2004, 2006, 2007, 2008, 2009.
+# Andrei Popescu <andreimpopescu@gmail.com>, 2010.
+# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-08-16 15:57+0300\n"
+"Last-Translator: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Virtaal 0.6.1\n"
+"X-Launchpad-Export-Date: 2010-08-16 11:01+0000\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Afarele Franceze și Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Antilele olandeze"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Teritoriu Britanic din Antarctica"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Republica socialistă de uniune a"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Republica sovietică socialistă Bielorusă"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Cehoslovacia, Republica socialistă Cehoslovacă"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia și Muntenegru"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Insulele Canton și Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Republica democrată Germană"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Teritoriile Franceze Antarctice și de Sud"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Franța, Metropolitan"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Insulele Gilbert și Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Volta Superioară, Republica"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Insulele Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Insulele Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Noile Hebride"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Ținutul Dronning Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Zonă neutră"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Insulele Pacifice (teritoriu de încredere)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Diverse Insule din Pacific aparținând SUA"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Zona Canalului Panama"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Rhodesia de Sud"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "URSS, Uniunea republicilor sovietice socialiste"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timorul de Est"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Viet-Nam, Republica democrată"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Insula Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen, Democrat, Republica populară democrată"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Iugoslavia, Republica socialistă federală"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zair, Republica"

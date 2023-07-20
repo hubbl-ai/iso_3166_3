@@ -1,0 +1,54 @@
+# Translation of ISO-3166 (country names) to Zulu
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2003
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   - Thobile Mhlongo <thobile@translate.org.za>, 2002
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-05 18:50+0000\n"
+"Last-Translator: Thobile Mhlongo <thobile@translate.org.za>\n"
+"Language-Team: Zulu <zulu@translate.org.za>\n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "I-Netherlands"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "I-Irelandi"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "I-Irelandi"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "I-Irelandi"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Ulawulo lokuziphatha kwe Dominikhani"

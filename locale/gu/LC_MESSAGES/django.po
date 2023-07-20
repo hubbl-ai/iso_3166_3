@@ -1,0 +1,119 @@
+# Translation of ISO-3166 (gu.po) to Gujarati
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   - translations from ICU-3.0
+#
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   Kartik Mistry <kartik@debian.org>, 2006, 2007, 2008, 2012, 2013.
+#   Ankit Patel <ankit644@yahoo.com>, 2010.
+#   Sweta Kothari <swkothar@redhat.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-02-13 11:22+0530\n"
+"Last-Translator: Kartik Mistry <kartik@debian.org>\n"
+"Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ફ્રેન્ચ અફાર્સ અને ઇસ્સા"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "નેધરલેન્ડ્સ એન્ટિલાઇસ"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "બ્રિટિશ એન્ટાર્ટિક ટેરીટરી"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "સોસ્યાલિસ્ટ રીપબ્લિક ઓફ બર્મા"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "બાયલોરશિયન એસએસઆર સોવિયત સોસ્યાલિસ્ટ રિપબ્લિક"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "ચેકોસ્લોવેકિઆ, ચેકોસ્લોવેક સોસ્યાલિસ્ટ રીપબ્લિક"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "સર્બિયા અને મોન્ટેનેગરો"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "કેન્ટોન અને એન્ડરબુરી ટાપુઓ"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "જર્મન ડેમોક્રેટિક રીપબ્લિક"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "ડાહોમેય"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ફ્રેન્ચ સર્થન એન્ડ એન્ટાર્ટિક ટેરિટરીસ"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ફ્રાન્સ, મેટ્રોપોલિટન"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "ગિલ્બર્ટ અને ઇલ્લિસ ટાપુઓ"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "રીપબ્લિક ઓફ અપર મોલ્ડોવા"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "જોનાથન ટાપુ"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "મિડવે ટાપુઓ"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "ન્યુ હેબ્રિડેસ"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ડ્રોન્નિંગ માઉડ લેન્ડ"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "મધ્યમ વિસ્તાર"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "પેસેફિક ટાપુઓ (ટ્રસ્ટ ટેરિટરી)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "યુએસ વિવિધ પેસેફિક ટાપુઓ"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "પનામા કેનલ વિસ્તાર"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "દક્ષિણ રહોડેશિયા"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "સિક્કિમ"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "યુએસએસઆર, યુનિયન ઓફ સોવિએત સોસ્યાલિસ્ટ રીપબ્લિક્સ"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "ઇસ્ટ તિમોર"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ડેમોક્રેટિક રીપબ્લિક ઓફ વિએત-નામ"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "વેક ટાપુઓ"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "યમન, ડેમોક્રેટિક, પીપલ્સ ડેમોક્રેટિક રીપબ્લિક ઓફ"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "યુગોસ્લાવિઆ, સોસ્યાલિસ્ટ ફેડરલ રીપબ્લિક ઓફ"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "રીપબ્લિક ઓફ ઝૈર"

@@ -1,0 +1,119 @@
+# Translation of ISO-3166 (country names) to Norwegian Bokmål
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+# Håvard Korsvoll <korsvoll@skulelinux.no>, 2004.
+# Knut Yrvin <knuty@skolelinux.no>, 2004.
+# Axel Bojer <axelb@skolelinux.no>, 2004.
+# Bjørn Steensrud <bjornst@powertech.no>, 2006.
+# Hans Fredrik Nordhaug <hans@nordhaug.priv.no>, 2007-2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-07-16 15:58+0200\n"
+"Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
+"Language-Team: Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=n>1;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Fransk Afars og Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "De nederlandske Antillene"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Britisk Antarktis"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Den sosialistiske republikk"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Den sovjetiske sosialistiske republikk Hviterussland"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tsjekkoslovakia, Den tsjekkoslovakiske sosialistisk republikk"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia og Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Kanton- og Endeburyøyene"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Den tyske demokratiske republikk"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "De franske sørlige og antarktiske territorier"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Metropolitan-Frankrike"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert- og Elliceøyene"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Øvre Volta, Republikken"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnstonøya"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midwayøyene"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nye Hebridene"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Den nøytrale sona"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Stillehavsøyene (beskyttelsesområde)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "USAs diverse stillehavsøyer"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamakanalsona"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Sør-Rhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, Unionen av sosialistiske sovjetrepublikker"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Øst-Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, Den sosialistiske republikk"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wakeøya"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemen, Demokratisk, Den demokratiske folkerepublikk"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoslavia, Den føderale republikk"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaïre, Republikken"

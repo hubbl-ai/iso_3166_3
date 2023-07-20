@@ -1,0 +1,119 @@
+# translation of iso_3166-3.15.po to Marathi
+# Translation of ISO-3166 (country names) to Marathi
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+#   Alastair McKinstry, <mckinstry@debian.org>, 2004.
+#   Sampada Nakhare, 2007.
+#   Priti Patil <prithisd@gmail.com>, 2007.
+# Sandeep Shedmake <sshedmak@redhat.com>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2012-04-28 13:38+0530\n"
+"Last-Translator: sampada <sampadanakhare@gmail.com>\n"
+"Language-Team: Marathi <fedora-trans-mr@redhat.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "फ्रेँच आफ्रास आणि ईसास"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "नेदरलॅंडस् अँटील्स्"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ब्रिटिश अंटार्टिक टेरिटोरी"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "बर्मा, सोशालिस्ट रिपब्लिक ऑफ द युनिअन ऑफ "
+
+msgid "ISO_3166-3.BYAA"
+msgstr "बेलोरशियन एसएसआर सोविएट सोशालिस्ट रिपब्लिक"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "झेकोस्लोव्हाकिया, झेकोस्लोव्हाक सोशालिस्ट रिपब्लिक"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "सर्बिया आणी मॉंटेनेग्रो"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "कँटोन आणि एंडर्बरी आयलॅंडस्"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "जर्मन डेमोक्रॅटिक रिपब्लिक"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "डाहोमी"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "फ्रेंच सदर्न आणि अंटार्टिक टेरिटरीज्"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "फ्रान्स, मेट्रोपोलिटन"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "गिल्बर्ट आणि एलिस आयलॅंडस्"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "अप्पर व्होल्टा, रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "जॉंसन आयलॅंडस्"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "मिडवे आयलँडस्"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "न्यू हेब्रिड्स"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ड्रॉनिंग माउड लँड"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "न्युट्रल झोन"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "पॅसिफिक आयलॅंडस् (ट्रस्ट टेरिटरी)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "यूएस मिसलिनिअस पॅसिफिक आयलॅंडस्"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "पनामा कॅनाल झोन"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "सदर्न र्‍होडेशिया"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "सिक्किम"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "यूएसएसआर, युनिअन ऑफ सोविएट सोशालिस्ट रिपब्लिक"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "ईस्ट तिमोर "
+
+msgid "ISO_3166-3.VDVN"
+msgstr "व्हिएटनाम, डेमोक्रॅटिक पिपल्स रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "वेक आयलँड"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "येमेन, डेमोक्रॅटिक पिपल्स रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "युगोस्लाव्हिया, सोशालिस्ट फेडरल रिपब्लिक ऑफ"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "झैरे, रिपब्लिक ऑफ"

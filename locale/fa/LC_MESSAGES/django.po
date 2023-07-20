@@ -1,0 +1,120 @@
+# Translation of ISO-3166 (country names) to Persian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2001,2003
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Translations from kde:
+#   - FarsiKDE Team <info@farsikde.org>
+#   Alastair McKinstry - further translations from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fa\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-02-18 01:20+0330\n"
+"Last-Translator: Behrad Eslamifar <behrad_es@yahoo.com>\n"
+"Language-Team: debian-l10n-persian <debian-l10n-persian@lists.debian.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "French Afars and Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "آنتیل هلند"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "قلمرو قطب جنوب بریتانیا"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "جمهوری سوسیالیستی اتحاد برمه"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "بلاروس جمهوری شوروی سوسیالیستی"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "چکوسلواکی ، جمهوری سوسیالیستی چکوسلواکی"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "صربستان و مونته نگرو"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "جزایر کانتون و اندربری"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "جمهوری دموکراتیک آلمان"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "داهومی"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "قلمروهای جنوبی و قطب جنوب فرانسه"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "فرانسه، متروپولیتن"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "جزایر گیلبرت و الیس"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "جمهوری ولتا بالا"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "جزیره جانستون"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "جزایر میدوی"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "جزایر هیبرید"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "منطقه بی طرف"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "جزایر اقیانوس آرام (ناحیه تحت سرپرستی شورای امنیت سازمان ملل متحد)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "جزایر متفرقه اقیانوس آرام آمریکا "
+
+msgid "ISO_3166-3.PZPA"
+msgstr "منطقه کانال پاناما"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "رودشیا جنوبی"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "سیکیم"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "اتحاد جماهیر شوروی ، اتحاد جماهیر شوروی سوسیالیستی"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "تیمور شرقی"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "جمهوری دموکراتیک ویتنام"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "جزیره ویک"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "یمن، دموکراتیک، جمهوری دموکراتیک خلق یمن"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "جمهوری سوسیالیست فدرال یوگسلاوی"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "جمهوری زئیر"

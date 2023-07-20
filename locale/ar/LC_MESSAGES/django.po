@@ -1,0 +1,117 @@
+# translation of iso-codes_iso_3166.po to Arabic
+# Arabic translations of ISO-3166 element names
+# Copyright (C) 2001,2003, 2004, 2006, 2008 Free Software Foundation, Inc.
+# Translations taken from KDE desktop.mo
+#
+# Alastair McKinstry <mckinstry@computer.org>, 2002F.
+# Abdulaziz Al-Arfaj <alarfaj0@yahoo.com>, 2004.
+# Ossama M. Khayat <okhayat@yahoo.com>, 2006, 2008, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-08-14 15:04+0300\n"
+"Last-Translator: Ossama M. Khayat <okhayat@yahoo.com>\n"
+"Language-Team: Arabic <support@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "العفر والأوسا الفرنسية"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "أنتيل هولندا"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "مقاطعة المحيط الهندي البريطانيّة"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "جمهورية اتحاد بورما الاشتراكية"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "جمهورية بلاروسية السوفييتية الاشتراكية"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "تشيكوسلوفاكيا، جمهورية سلوفاكيا الاشتراكية"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "الصرب والمنتنيغرو"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "جزر كنتون وإندربري"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "جمهوريّة ألمانيا الديموقراطيّة"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "داهومي (جمهورية بينين)"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "المناطق الجنوبية والأنتركتيكية الفرنسية"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "فرنسا، العاصمة"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "جزر غيلبرت وإيليس"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "جمهورية فولتا العليا"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "جزيرة جونستون"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "جزر ميدواي"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "هبريدز الجديدة"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "أرض الملكة مود"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "المنطقة المحايدة"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "جزر المحيط الهادي (منطقة ثقة)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "جزر المحيط الهادي الأمريكية"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "منطقة قناة بنما"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "روديسا الجنوبية"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "سكم"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "اتحاد الجمهوريات السوفيتية الاشتراكية"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "تيمور الشرقية"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "جمهورية فيتنام الدّيموقراطيّة"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "جزيرة وايك"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "جمهورية اليمن الشعبية الديموقراطية"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "جمهورية يوغسلافيا الفدرالية الاشتراكية"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "جمهوريّة زائير"

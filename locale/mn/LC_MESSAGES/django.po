@@ -1,0 +1,42 @@
+# ISO-3166 territory names in Mongolian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# This file is distributed under the LGPL License
+# Sanlig Badral <badral@chinggis.com>, 2003.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2003-02-12 21:40+0100\n"
+"Last-Translator: Sanlig Badral <badral@chinggis.com>\n"
+"Language-Team: Mongolian <mn@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Британий энэтхэгийн далайн нутаг  "
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Ардчилсан Конго ард улс"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Солонгос ард улс"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Соломоны арлууд"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Маршаллын арлууд"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Ардчилсан солонгос улс"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Ардчилсан солонгос улс"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Солонгос ард улс"

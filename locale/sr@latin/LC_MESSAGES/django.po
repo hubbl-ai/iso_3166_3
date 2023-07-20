@@ -1,0 +1,114 @@
+# Translation of ISO 3166 to Serbian.
+# Copyright (C) 2012 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Milos Komarcevic <kmilos@gmail.com>, Caslav Ilic <caslav.ilic@gmx.net>, 2009.
+# Aleksandar Jelenak <aleksandar.jelenak@gmail.com>, 2012.
+# Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2014—2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-12-26 21:20+0200\n"
+"Last-Translator: Miroslav Nikolić <miroslavnikolic@rocketmail.com>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Francuski Afari i Ise"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Holandski Antili"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Britanska Antarktička Teritorija"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Socijalistička Republika Unije"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Beloruska SSR (Sovjetska Socijalistička Republika)"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Čehoslovačka, Čehoslovačka Socijalistička Republika"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Srbija i Crna Gora"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Ostrva Kanton i Enderberi"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Nemačka Demokratska Republika"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomej"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Francuske Južne i Antarktičke Teritorije"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Francuska, Metropolis"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Ostrva Gilbert i Elis"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Gornja Volta, Republika"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Ostrvo Džonston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Ostrva Midvej"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Novi Hebridi"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Zemlja Droning Mod"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neutralna zona"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pacifička ostrva (poverena teritorija)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Razna pacifička ostrva SAD"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamska zona kanala"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Južna Rodezija"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "SSSR, Savez Sovjetskih Socijalističkih Republika"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Istočni Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vijetnam, Demokratska Republika"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Ostrvo Vejk"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemen, Demokratski, Demokratska Narodna Republika"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoslavija, Socijalistička Federativna Republika"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zair, Republika"

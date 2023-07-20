@@ -1,0 +1,65 @@
+# Translation of ISO-3166 (country names) to Tagalog
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Eric Pareja <xenos@upm.edu.ph> 2005,2006
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2006-10-18 22:59+0800\n"
+"Last-Translator: Eric Pareja <xenos@upm.edu.ph>\n"
+"Language-Team: Tagalog <debian-tl@banwa.upm.edu.ph>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Netherlands Antilles"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Teritoryong Britaniya sa Dagat Indiyo"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Republika Sosyalista ng Viet Nam"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Republika ng Montenegro"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Taumbayang Demokratikong Republikang Lao"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Teritoryong Hilagang Pranses"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Turks at Caicos Islands"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Moldova, Republika ng"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Cook Islands"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Pulong Cayman"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Korea, Taumbayang Demokratikong Republika of"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Faroe Islands"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Korea, Taumbayang Demokratikong Republika of"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Tanzania, Nagkaisang Republika ng"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Korea, Republika ng"

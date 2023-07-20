@@ -1,0 +1,119 @@
+# Brazilian Portuguese translations of ISO 3166 (place names)
+# Copyright (C) 2013 the package authors.
+# This file is distributed under the same license as the iso-codes package.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Lisiane Sztoltz <lisiane@conectiva.com.br>
+# Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2006-2009.
+# Rafael Ferreira <rafael.f.f1@gmail.com>, 2013.
+#
+# Code elements (nice reference): https://en.wikipedia.org/wiki/ISO_3166-1
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-12-05 13:51-0300\n"
+"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <ldpbr-translation@lists.sourceforge."
+"net>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Território Francês dos Afars e Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Antilhas Holandesas"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Território Britânico da Antártida"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "República Socialista da União da Birmânia"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "República Socialista Soviética da Bielo-Rússia"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tchecoslováquia, República Socialista da Tchecoslovaca"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Sérvia e Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Ilhas Canton e Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "República Popular da Alemanha"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Daomé"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Terras Austrais e Antárticas Francesas"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "França Metropolitana"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Ilhas Gilbert e Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Alto Volta, República do"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Ilha Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Ilhas Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Novas Hébridas"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Terra da Rainha Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Zona Neutra"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Ilhas do Pacífico (protetorado)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Ilhas Variadas dos EUA no Pacífico"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Zona do Canal do Panamá"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Rodésia do Sul"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Siquim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "URSS, União das Repúblicas Socialistas Soviéticas"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timor Leste"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnã, República Popular Democrática do"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Ilha Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Iêmen, República Popular Democrática do"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Iugoslávia, República Federativa Socialista da"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, República do"

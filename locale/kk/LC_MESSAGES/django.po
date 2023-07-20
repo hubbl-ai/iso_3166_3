@@ -1,0 +1,118 @@
+# Translation of ISO-3166 (country names) to Kazakh
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   Sairan Kikkarin <sairan@sci.kz>, 2006
+#   KDE Kazakh l10n team, 2006
+#   Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2008-2011
+#   Dauren Sarsenov <daur88@inbox.ru>, 2009
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-04-02 10:54+0500\n"
+"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
+"Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Француз Афар мен Иссас"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Нидерландияның Антиль аралдары"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Ұлыбританияның Антарктида Аймағы"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Бирма Біріккен Социалистік Республикасы"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Белорус ССР"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Чехословакия, Чехословак Социалистік Республикасы"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Сербия мен Черногория"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Эндербери мен Кантон аралдары"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Германия Демократиялық Республикасы"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Дагомея"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Француз Оңтүстік Аймақтары"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Франция, Метрополия"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Гильберта пен Эллис аралдары"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Жоғарғы Вольта Републикасы"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Джонстон Атоллы"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Мидуэй аралдары"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Жаңа Гебрид аралдары"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Королева Мод Жері"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Нейтралды аймақ"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Тынық Мұхит Аралдары (қамқорлықтағы аймақ)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "АҚШ-ң әртүрлі Тынық Мұхит аралдары"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Панама Канал Аймағы"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Солтүстік Родезия"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Сикким"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "КСРО, Кеңес Социалистік Республикалар Одағы "
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Шығыс Тимор"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Вьетнам Демократиялық Республикасы"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Уэйк Атоллы"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Йемен Халық Демократиялық Республикасы"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Югославия"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Заир"

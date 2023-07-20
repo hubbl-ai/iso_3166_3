@@ -1,0 +1,119 @@
+# Translation of ISO-3166 (country names) to German
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+#   Stefan Siegel <siegel@mandrakesoft.com>, 2001.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Simon Hürlimann <simon.huerlimann@access.unizh.ch>, 2004.
+#   Dennis Stampfer <seppy@debian.org>, 2004.
+#   Christian Stimming <stimming@tuhh.de>, 2006.
+#   Dr. Tobias Quathamer <toddy@debian.org>, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-06-10 22:09+0200\n"
+"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: German <debian-l10n-german@lists.debian.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Französische Afar und Issa"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Niederländische Antillen"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Britisches Antarktis-Territorium"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Sozialistische Republik der Union"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Weißrussische Sozialistische Sowjetrepublik"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Tschechoslowakei, Tschechoslowakische Sozialistische Republik"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbien und Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Kanton- und Enderbury-Inseln"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Deutsche Demokratische Republik"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Französische Süd- und Antarktisgebiete"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Frankreich, metropolitan"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert- und Ellice-Inseln"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Obervolta, Republik"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnstoninsel"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midwayinseln"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Neue Hebriden"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Königin-Maud-Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neutrale Zone"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pazifische Inseln (Treuhandgebiet)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Verschiedene Pazifische Inseln der USA"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamakanalzone"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Südrhodesien"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "UdSSR, Union der Sozialistischen Sowjetrepubliken"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Osttimor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, Demokratische Republik"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemen, Demokratische Volksrepublik Jemen"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoslawien, Sozialistische Föderative Republik"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, Republik"

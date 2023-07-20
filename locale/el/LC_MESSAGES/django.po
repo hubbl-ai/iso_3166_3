@@ -1,0 +1,118 @@
+# Translation of ISO-3166 (country names) to Greek
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Panayotis Pakos <aeikineton@yahoo.com>
+#   Free Software Foundation, Inc., 2004.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Konstantinos Margaritis <markos@debian.org>, 2004.
+#   QUAD-nrg.net <yodesy@quad-nrg.net>, 2006, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-02-12 14:46+0200\n"
+"Last-Translator: Nick Andrik <nick.andrik@gmail.com>\n"
+"Language-Team: Greek <debian-l10n-greek@lists.debian.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Γαλλικοί Αφάρ και Ισσά"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Ολλανδικές Αντίλλες"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Εδάφος της Βρετανικής Ανταρκτικής"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Βιρμανία, Σοσιαλιστική Δημοκρατία της Ένωσης της"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Λευκορωσική ΣΣΔ Σοβιετική Σοσιαλιστική Δημοκρατία"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Τσεχοσλοβακία, Τσεχοσλοβάκικη Σοσιαλιστική Δημοκρατία"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Σερβία και Μαυροβούνιο"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Νήσοι Καντόν και Εντερμπέρυ"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Λαϊκή Δημοκρατία της Γερμανίας"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Νταχόμεϋ"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Γαλλικά Νότια και Ανταρκτικά Εδάφη"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Γαλλία, Μητροπολιτική"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Νήσοι Γκίλμπερτ και Έλλις"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Άνω Βόλτα, Δημοκρατία της"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Νήσος Τζόνστον"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Νήσοι Μίντγουεϊ"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Νέες Εβρίδες"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Γη του Ντρόνινγκ Μάουντ"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Ουδέτερη Ζώνη"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Νήσοι Ειρηνικού (εδάφη υπό κηδεμονία)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Διάφορες Νήσοι Ειρινικού Ηνωμένων Πολιτειών"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Ζώνη Διώρυγας του Παναμά"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Νότια Ροδεσία"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Σικκίμ"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "ΕΣΣΔ, Ένωση Σοβιετικών Σοσιαλιστικών Δημοκρατιών"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Ανατολικό Τιμόρ"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Βιετνάμ, Λαϊκη Δημοκρατία του"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Νήσος Γουέικ"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Υεμένη, Δημοκρατική, Λαϊκη Δημοκρατία της"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Γιουγκοσλαβία, Σοσιαλιστική Ομόσπονδη Δημοκρατία της"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Ζαΐρ, Δημοκρατία του"

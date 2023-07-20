@@ -1,0 +1,58 @@
+# Translation of ISO-3166 (country names) to Turkmen
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2004
+#   Kakilik Project <kakilik.sourceforge.net>, 2004
+#   Kakilik Group <kakilikgroup@yahoo.com>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-20 20:10I+0330\n"
+"Last-Translator: Kakilik Group <kakilikgroup@yahoo.com>\n"
+"Language-Team: Turkmen <kakilikgroup@yahoo.com>\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Wýetnam Halk Respublikasy"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Kongo Respublikasy"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Efiopiýa Federatiw Demokrat Respublikasy"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Aland Adalry"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Moldawiýa, Respublikasy"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Solomonowlar adasy"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Farer adalary"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Koreýa, Halk Demokratik Respublikasy"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Farer adalary"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Koreýa, Halk Demokratik Respublikasy"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Tanzaniýa"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Koreýa Respublikasy"

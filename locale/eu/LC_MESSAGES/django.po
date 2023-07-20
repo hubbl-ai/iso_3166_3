@@ -1,0 +1,118 @@
+# translation of iso-codes_eu.po to Basque
+# Translation of ISO-3166 (country names) to Basque
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+# Mikel Olasagasti <hey_neken@mundurat.net>, 2004.
+# Piarres Beobide Egaña <pi@beobide.net>, 2004,2006,2007, 2008, 2009, 2012.
+# Iñaki Larrañaga Murgoitio <dooteo@zundan.com>, 2010, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-02-12 21:53+0100\n"
+"Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@zundan.com>\n"
+"Language-Team: Basque <debian-l10n-basque@lists.debian.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Frantziar Afars eta Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Holandarren Antilak"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Antartikoko Lurralde Britainiarra"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, batasuneko Errepublika Sozialista"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Bielorrusiako Errepublika Sobietiko Sozialista"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Txekoslovakia, Txekoslovakiako Errepublika Sozialista"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia eta Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton eta Enderbury uharteak"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Alemaniako Errepublika Demokratikoa"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Antartikoko eta Hegoaldeko Lurralde Frantsesak"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Frantzia, Metropolitanoa"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert eta Ellice uharteak"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Goi Voltako Errepublika"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston uhartea"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway uharteak"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Hebride Berriak"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Maud Erreginaren Lurraldea"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Zonalde Neutrala"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pazifikoko uharteak (konfiantzako lurraldea)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "EBtako Beste Pazifikoko Uharteak"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panamako Kanal Zonaldea"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Hegoaldeko Rhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, Sobietar Errepublika Sozialisten Batasuna"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Ekialdeko Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "VietNam , Herri Errepublika Demokratikoa"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake uhartea"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen-eko Herri-Errepublika Demokratikoa"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugoslaviako Errepublika Sozialista Federala"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, Errepublika"

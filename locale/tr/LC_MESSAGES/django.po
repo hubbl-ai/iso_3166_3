@@ -1,0 +1,122 @@
+# Translation of ISO 3166 (country names) to Turkish
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+#   Free Software Foundation, Inc., 2004.
+#   Nilgün Belma Bugüner <nilgun@fide.org>, 2001.
+#   Ömer Fadıl USTA <omer_fad@hotmail.com>, 1999.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   (translations from drakfw)
+#   Recai Oktaş <roktas@omu.edu.tr>, 2004.
+#   Mert Dirik <mertdirik@gmail.com>, 2008.
+#   İsmail Baydan <ibaydan@gmail.com>, 2011.
+#   Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-08-17 18:07+0200\n"
+"Last-Translator: Atila KOÇ <koc@artielektronik.com.tr>\n"
+"Language-Team: Turkish <debian-l10n-turkish@lists.debian.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Fransız Somalilandı"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Hollanda Antilleri"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "İngiliz Antarktika Bölgesi"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Burma, Birliği Sosyalist Cumhuriyeti"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Beyaz Rusya SSC Sovyet Sosyalist Cumhuriyeti"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Çekoslovakya, Çekoslovak Sosyalist Cumhuriyeti"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Sırbistan-Karadağ"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Kanton ve Enderbury Adaları"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Alman Demokratik Cumhuriyeti"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomey"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Fransız Güney ve Antarktik Bölgeleri"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Fransa, Anakent"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert ve Ellice Adaları"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Yukarı Volta, Cumhuriyeti"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston Adaları"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway Adaları"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Yeni Hebrid"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Kraliçe Maud Adası"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Tarafsız Bölge"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pasifik Adaları (vesayet ülkeleri)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Çeşitli BD (Birleşik Devletler) Pasifik Adaları"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Panama Kanalı Bölgesi"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Güney Rodezya"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "SSCB, Sovyet Sosyalist Cumhuriyetler Birliği"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Doğu Timor"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Vietnam, Demokratik Cumhuriyeti"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake Adaları"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yemen, Demokratik Halk Cumhuriyeti"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Yugoslavya, Sosyalist Federal Cumhuriyeti"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire Cumhuriyeti"

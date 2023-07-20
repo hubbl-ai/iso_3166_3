@@ -1,0 +1,118 @@
+# Translation of ISO-3166 (country names) to Polish.
+# This file is distributed under the same license as the iso-codes package.
+#
+#    Copyright (C)
+#      Free Software Foundation, Inc., 2004-2013
+#      Translations from KDE:
+#      - Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
+#      Alastair McKinstry, <mckinstry@debian.org>, 2004.
+#      Tomasz Z. Napierala <zen@debian.linux.org.pl>, 2004, 2006.
+#      Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007
+#      Jakub Bogusz <qboosh@pld-linux.org>, 2007-2015
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-07-14 21:45+0200\n"
+"Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
+"Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "Francuskie Terytorium Afarów i Issów"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Antyle Holenderskie"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "Brytyjskie Terytorium Antarktyczne"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Birma"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Białoruska SRR"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Czechosłowacja"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbia i Czarnogóra"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "Canton i Enderbury"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Niemiecka Republika Demokratyczna"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dahomej"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "Francuskie Terytoria Południowe i Antarktyczne"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "Francja metropolitalna"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Wyspy Gilberta i Ellice"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Górna Wolta"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Wyspy Midway"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "Nowe Hebrydy"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Ziemia Królowej Maud"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Strefa Neutralna"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Powiernicze Wyspy Pacyfiku"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "Wyspy Stanów Zjednoczonych na Pacyfiku"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Strefa Kanału Panamskiego"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Rodezja Południowa"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "ZSSR, Związek Socjalistycznych Republik Radzieckich"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timor Wschodni"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Wietnam Południowy"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Jemen Południowy"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Jugosławia"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zair"

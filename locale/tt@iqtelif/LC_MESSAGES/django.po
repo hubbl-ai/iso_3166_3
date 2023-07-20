@@ -1,0 +1,59 @@
+# Translation of ISO-3166 (country names) to Tatar
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2005-10-21 15:11+0300\n"
+"Last-Translator: Albert Fazlí <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"Language: tt@iqtelif\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Niderland Antilläre"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Sosialist Cömhüriäte Viet Nam"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Kongo Cömhüriäte"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Kongo, Demokrat Cömhüriäte"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Türks belän Caicos Utrawları"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Moldova Cömhüriäte"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Kok Utrawları"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Kayman Utrawları"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Kongo, Demokrat Cömhüriäte"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Faroe Utrawları"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Kongo, Demokrat Cömhüriäte"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Tanzania, Berläşkän Cömhüriätläre"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Korea Cömhüriäte"

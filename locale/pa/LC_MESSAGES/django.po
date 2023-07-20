@@ -1,0 +1,115 @@
+# Translation of ISO-3166 (country names) to Panjabi
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>, 2005.
+# A S Alam <apbrar@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-05-29 05:58+0530\n"
+"Last-Translator: A S Alam <apbrar@gmail.com>\n"
+"Language-Team: Punjabi <punjabi-l10n@lists.sourceforge.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "ਫਰੈਂਚ ਅਫਾਰਸ ਅਟੇ ਇੱਸਸ"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "ਨੀਂਦਰਲੈਂਡ ਐਟੀਲਾਇਸ"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "ਬਰਤਾਨੀਆ ਐਨਟਾਰਟਿਕ ਖੇਤਰ"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "ਬਰਮਾ, ਸ਼ੋਸ਼ਲਿਸਟਿਕ ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "ਬਾਏਲੋਰੂਸੀ ਸੋਵੀਅਤ ਸਮਾਜਿਕ ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "ਚੈੱਕੋਸੋਲਵਾਕੀਆ, ਚੈਕੋਸੋਲਵਾਕੀਆ ਸਮਾਜਵਾਦੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "ਸੀਰਬੀਆ ਅਤੇ ਮੋਨਟੇਨੇਗਰੋ"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "ਕੇਨਟੋਨ ਅਟੇ ਐਡੀਰਬੁਰੀ ਟਾਪੂ"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "ਜਰਮਨ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "ਡੋਹੇਮਏ"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "ਫਰੈਂਚ ਦੱਖਣੀ ਅਤੇ ਐਟਾਰਟਿਕ ਖੇਤਰ"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "ਫਰੈਚ, ਮੈਟਰੋਪੋਲਿਟਨ"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "ਗਿਲਬਰਟ ਅਤੇ ਇਲਸਿਕ ਟਾਪੂ"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "ਅੱਪਰ ਵੋਲਟਾ, ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "ਜਾਨਸਟੋਨ ਟਾਪੂ"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "ਮਿਡਵੇ ਟਾਪੂ"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "ਨਿਊ ਹੀਬਰਿਡਜ"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "ਡਰੋਨਿੰਗ ਮਾਉਡ ਟਾਪੂ"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "ਨਿਊਟਰਲ ਖੇਤਰ"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "ਪਰਸ਼ਾਂਤ ਟਾਪੂ (ਟਰੱਸਟ ਖੇਤਰ)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "US ਫੁਟਕਲ ਪਰਸ਼ਾਂਤ ਟਾਪੂ"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "ਪੈਨਾਮਾ ਨਹਿਰ ਖੇਤਰ"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "ਦੱਖਣੀ ਰਹੋਡਿਸੀਆ"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "ਸਿੱਕਮ"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "USSR, ਸੋਵੀਅਤ ਯੂਨੀਅਨ"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "ਪੂਰਬੀ ਤੀਮੁਰ"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "ਵੀਅਤਨਾਮ, ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "ਵੇਕ ਟਾਪੂ"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "ਯਮਨ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "ਯੂਗੋਸਲਾਵੀਆ, ਸਮਾਜਿਕ ਸੰਘੀ ਗਣਰਾਜ"
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "ਜਾਇਰੀ ਗਣਰਾਜ"

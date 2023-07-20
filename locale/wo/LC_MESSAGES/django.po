@@ -1,0 +1,115 @@
+# translation of wo.po to Wolof
+# Translation of ISO-3166 (country names) to Wolof
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+#   Mouhamadou Mamoune Mbacke <mouhamadoumamoune@gmail.com>, 2005, 2006, 2007, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: wo\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-06-04 21:14+0200\n"
+"Last-Translator: Mouhamadou Mamoune Mbacke <mouhamadoumamoune@gmail.com>\n"
+"Language-Team: Wolof\n"
+"Language: wo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_3166-3.AIDJ"
+msgstr "French Afars and Issas"
+
+msgid "ISO_3166-3.ANHH"
+msgstr "Aantiy bu Olaand"
+
+msgid "ISO_3166-3.BQAQ"
+msgstr "British Antarctic Territory"
+
+msgid "ISO_3166-3.BUMM"
+msgstr "Republik Sosiaalist bu Union bu Birmaani"
+
+msgid "ISO_3166-3.BYAA"
+msgstr "Republik Sosyaalisrt Sowietik bu Biyeloruus"
+
+msgid "ISO_3166-3.CSHH"
+msgstr "Cekoslowaaki, Republik Sosyaalist Cekoslowaak"
+
+msgid "ISO_3166-3.CSXX"
+msgstr "Serbi ak Montenegro"
+
+msgid "ISO_3166-3.CTKI"
+msgstr "i"
+
+msgid "ISO_3166-3.DDDE"
+msgstr "Republik Demokaraatik bu Almaañ"
+
+msgid "ISO_3166-3.DYBJ"
+msgstr "Dawme"
+
+msgid "ISO_3166-3.FQHH"
+msgstr "French Southern and Antarctic Territories"
+
+msgid "ISO_3166-3.FXFR"
+msgstr "France, Metropolitain"
+
+msgid "ISO_3166-3.GEHH"
+msgstr "Gilbert and Ellice Islands"
+
+msgid "ISO_3166-3.HVBF"
+msgstr "Ot Woltaa, Republik bu"
+
+msgid "ISO_3166-3.JTUM"
+msgstr "Johnston Island"
+
+msgid "ISO_3166-3.MIUM"
+msgstr "Midway Islands"
+
+msgid "ISO_3166-3.NHVU"
+msgstr "New Hebrides"
+
+msgid "ISO_3166-3.NQAQ"
+msgstr "Dronning Maud Land"
+
+msgid "ISO_3166-3.NTHH"
+msgstr "Neutral Zone"
+
+msgid "ISO_3166-3.PCHH"
+msgstr "Pacific Islands (trust territory)"
+
+msgid "ISO_3166-3.PUUM"
+msgstr "US Miscellaneous Pacific Islands"
+
+msgid "ISO_3166-3.PZPA"
+msgstr "Gox bu Kanaalu Panama"
+
+msgid "ISO_3166-3.RHZW"
+msgstr "Southern Rhodesia"
+
+msgid "ISO_3166-3.SKIN"
+msgstr "Sikkim"
+
+msgid "ISO_3166-3.SUHH"
+msgstr "URSS, Union bu Republik Sosyaalist Sowiyetik"
+
+msgid "ISO_3166-3.TPTL"
+msgstr "Timoor Est"
+
+msgid "ISO_3166-3.VDVN"
+msgstr "Wiet Naam, Republik Demokaraatik bu"
+
+msgid "ISO_3166-3.WKUM"
+msgstr "Wake Island"
+
+msgid "ISO_3166-3.YDYE"
+msgstr "Yaman, Republik Popileer Demokaraatik bu"
+
+msgid "ISO_3166-3.YUCS"
+msgstr "Yugoslaawi, Republik Sosiyaalist Federaal bu "
+
+msgid "ISO_3166-3.ZRCD"
+msgstr "Zaire, Republik bu"
